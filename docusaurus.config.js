@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "UDSM DHIS2 Quick Reference",
-  tagline: "Welcome to UDSM DHIS2 Quick Reference",
+  title: "MEL User manual",
+  tagline: "Welcome to MEL User manual",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -11,15 +11,15 @@ module.exports = {
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "UDSM DHIS2 Quick Reference",
+      title: "MEL User manual",
       logo: {
-        alt: "UDSM DHIS2 LOGO",
-        src: "img/udsm_logo_combined.png",
+        alt: "LOGO",
+        src: "img/logo_lhrc.png",
       },
       items: [
         {
           type: "doc",
-          docId: "dhis2-custom-forms/custom-forms-css",
+          docId: "introduction/introduction",
           position: "left",
           label: "Documentation",
         },
@@ -46,12 +46,8 @@ module.exports = {
           title: "Testing and development instances",
           items: [
             {
-              label: "DHIS2 Upgrade",
-              href: "https://dhis.udsm-hmis.org/dhis2testupgrade",
-            },
-            {
-              label: "iCare EMR",
-              href: "https://icare.dhis2udsm.org/#/",
+              label: "MEL Production System",
+              href: "http://mel.humanrights.or.tz:8090/mel",
             },
           ],
         },
@@ -69,7 +65,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} UDSM DHIS2 Project.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MEL System`,
     },
   },
   presets: [

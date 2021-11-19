@@ -16,8 +16,8 @@ module.exports = {
   tutorialSidebar: [
     {
       type: "category",
-      label: "DHIS2 Custom forms",
-      items: ["dhis2-custom-forms/custom-forms-css"],
+      label: "Introduction",
+      items: ["introduction/introduction", "introduction/available-modules"],
     },
   ],
 };
