@@ -17,7 +17,16 @@ module.exports = {
     {
       type: "category",
       label: "Introduction",
-      items: ["introduction/introduction", "introduction/available-modules"],
+      items: [
+        "introduction/introduction",
+        "introduction/accessing-mel",
+        "introduction/available-modules",
+      ],
+    },
+    {
+      type: "category",
+      label: "Dashboard",
+      items: ["dashboard/about-dashboard", "dashboard/creating-dashboard"],
     },
   ],
 };
