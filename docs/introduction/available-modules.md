@@ -7,6 +7,7 @@ The following are the modules available on MEL system
 <li>Data entry</li>
 <li>General registration</li>
 <li>Reports</li>
+<li>Resources / MEL Library</li>
 <li>User management</li>
 </ol>
 
