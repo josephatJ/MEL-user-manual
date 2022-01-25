@@ -1,4 +1,6 @@
-# Login
+# Accessing MEL
+
+## Things required
 
 For one to login into MEL system should have the following
 
@@ -10,4 +12,14 @@ For one to login into MEL system should have the following
 <li>Address to MEL</li>
 </ol>
 
-![Login pafe img](/img/logo_lhrc.png)
+## How
+
+Follow the steps below
+
+<ol>
+<li>Enter address to the browser on a computer with internet</li>
+<li>Provide username and password</li>
+<li>Click login to authenticate</li>
+</ol>
+
+![Login pafe img](/img/login/mel_login_1.png)

@@ -2,13 +2,13 @@
 module.exports = {
   title: "MEL User manual",
   tagline: "Welcome to MEL User manual",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://josephatJ.github.io",
+  baseUrl: "/MEL-user-manual/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "josephatJ", // Usually your GitHub org/user name.
+  projectName: "MEL-user-manual", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "MEL User manual",
@@ -22,11 +22,6 @@ module.exports = {
           docId: "introduction/introduction",
           position: "left",
           label: "Documentation",
-        },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
         },
       ],
     },
@@ -57,10 +52,6 @@ module.exports = {
             {
               label: "Blog",
               to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
             },
           ],
         },
