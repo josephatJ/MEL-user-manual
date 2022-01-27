@@ -2,13 +2,13 @@
 module.exports = {
   title: "MEL User manual",
   tagline: "Welcome to MEL User manual",
-  url: "https://github.com/josephatJ/MEL-user-manual.github.io",
+  url: "https://github.com/josephatJ/MEL-user-manual",
   baseUrl: "/MEL-user-manual/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "josephatJ", // Usually your GitHub org/user name.
-  projectName: "MEL-user-manual.github.io", // Usually your repo name.
+  projectName: "MEL-user-manual", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "MEL User manual",
