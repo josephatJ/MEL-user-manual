@@ -28,5 +28,25 @@ module.exports = {
       label: "Dashboard",
       items: ["dashboard/about-dashboard", "dashboard/creating-dashboard"],
     },
+    {
+      type: "category",
+      label: "Data entry",
+      items: ["data-entry/data_entry_summary"],
+    },
+    {
+      type: "category",
+      label: "General Registration",
+      items: ["general-registration/summary"],
+    },
+    {
+      type: "category",
+      label: "Reports",
+      items: ["reports/summary", "reports/general_reports"],
+    },
+    {
+      type: "category",
+      label: "Activity Tracker",
+      items: ["activity-tracker/summary"],
+    },
   ],
 };

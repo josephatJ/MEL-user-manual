@@ -2,7 +2,7 @@
 module.exports = {
   title: "MEL User manual",
   tagline: "Welcome to MEL User manual",
-  url: "https://josephatJ.github.io",
+  url: "https://github.com/josephatJ/MEL-user-manual.github.io",
   baseUrl: "/MEL-user-manual/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

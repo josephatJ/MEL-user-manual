@@ -15,7 +15,7 @@ The following are the modules available on MEL system
 
 One get summary of diffent data visualizations i.e charts/graphs and tables.
 
-![Login pafe img](/img/modules-summary/dashboard_summary.png)
+![Login page img](/img/modules-summary/dashboard_summary.png)
 
 ## Data Entry
 
