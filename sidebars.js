@@ -48,5 +48,15 @@ module.exports = {
       label: "Activity Tracker",
       items: ["activity-tracker/summary"],
     },
+    {
+      type: "category",
+      label: "User Management",
+      items: ["user-management/summary"],
+    },
+    {
+      type: "category",
+      label: "MEL Library",
+      items: ["resources/summary"],
+    },
   ],
 };

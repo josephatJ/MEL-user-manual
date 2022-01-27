@@ -1,8 +1,8 @@
-# Reports
+# Reports Module
 
 ## Reports Sections
 
-The following are the reports sections of the reports module
+The following are the reports categories of the reports module
 
 <ul>
   <li>General Reports</li>
