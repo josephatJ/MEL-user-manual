@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMEL_user_manual=self.webpackChunkMEL_user_manual||[]).push([[2075],{8805:function(a){a.exports=JSON.parse('{"allTagsPath":"/MEL-user-manual/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/MEL-user-manual/blog/tags/hola"}')}}]);

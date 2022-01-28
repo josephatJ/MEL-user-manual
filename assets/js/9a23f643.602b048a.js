@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMEL_user_manual=self.webpackChunkMEL_user_manual||[]).push([[9438],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/MEL-user-manual/blog/welcome"},{"title":"Hello","permalink":"/MEL-user-manual/blog/hello-world"},{"title":"Hola","permalink":"/MEL-user-manual/blog/hola"}]}')}}]);
