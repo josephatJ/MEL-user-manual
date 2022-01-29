@@ -41,7 +41,12 @@ module.exports = {
     {
       type: "category",
       label: "Reports",
-      items: ["reports/summary", "reports/general_reports"],
+      items: [
+        "reports/summary",
+        "reports/general_reports",
+        "reports/standard_reports",
+        "reports/uploaded_reports",
+      ],
     },
     {
       type: "category",
