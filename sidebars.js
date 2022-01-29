@@ -46,7 +46,7 @@ module.exports = {
     {
       type: "category",
       label: "Activity Tracker",
-      items: ["activity-tracker/summary"],
+      items: ["activity-tracker/summary", "activity-tracker/creating-new"],
     },
     {
       type: "category",
