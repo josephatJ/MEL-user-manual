@@ -29,16 +29,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
-          items: [
-            {
-              label: "Google drive",
-              to: "https://drive.google.com/drive/folders/1UvHyQIUUDmz-DEFicB392l_fKCphFp8l",
-            },
-          ],
-        },
-        {
-          title: "Testing and development instances",
+          title: "MEL Production",
           items: [
             {
               label: "MEL Production System",
@@ -46,15 +37,15 @@ module.exports = {
             },
           ],
         },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-          ],
-        },
+        // {
+        //   title: "More",
+        //   items: [
+        //     {
+        //       label: "Blog",
+        //       to: "/blog",
+        //     },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} MEL System`,
     },
